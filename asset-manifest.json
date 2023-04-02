@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ogotop/static/css/main.94ba400a.css",
+    "main.js": "/ogotop/static/js/main.53d14e76.js",
+    "static/media/living-room-trends-2022.jpg": "/ogotop/static/media/living-room-trends-2022.f85d3cbe1c8517a85205.jpg",
+    "index.html": "/ogotop/index.html",
+    "main.94ba400a.css.map": "/ogotop/static/css/main.94ba400a.css.map",
+    "main.53d14e76.js.map": "/ogotop/static/js/main.53d14e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94ba400a.css",
+    "static/js/main.53d14e76.js"
+  ]
+}
