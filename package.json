@@ -1,6 +1,7 @@
 {
   "name": "ogotop",
   "version": "0.1.0",
+  "homepage": "https://alexmel83.github.io/ogotop/"
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
